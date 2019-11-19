@@ -1,0 +1,37 @@
+Using JPA to implement a simple web application to manage students and classes
+
+Entity Classes
+You will need 2 entity classes : Student and Subject
+
+Assume that each class has a simple primary key
+Associations between the entity classes must be bidirectional
+Multiplicity of the associations between the classes should be shown, and navigable in both directions
+
+Coding
+As well as the entity classes, properly annotated with JPA annotation, you will need a combination of a number of servlets and JSP
+pages to implement the system. For example, you will need servlets to do the following :
+
+  Get list of students / subjects and add to the session
+  Create and Delete subjects and students
+  Add students to subjects and vice-versa
+  Remove students from subjects and vice-versa
+  
+You will need JSP pages to do the following
+  
+  List subjects / students
+  Create subjects / students
+  Add students to subjects and vice-versa
+  
+You can experiment with cascading changes made in objects to associated classes, but you may find it easier, for example,
+before removing a student object using JPA, to remove the student from all linked subject objects. And vice-versa when removing
+a subject object. Otherwise, you can end up either cascading a delete accidently (e.g. if you delete a linked subject when
+you delete a student), or not updating the link, leaving orphaned student objects in an array in the subject.
+
+Database
+You may use either MySQL or the inbuilt JavaDB which comes with NetBeans
+
+Instructions
+Your applciation should allow the user to add, modify, and delete data for Students and Subjects.
+You should be able to list the Subjects a student is taking, and add / remove Subjects from the Student's list also.
+You should be able to list the Students who are taking a particular subject, and add and remove Students from the 
+Subject's enrollmnet list.
