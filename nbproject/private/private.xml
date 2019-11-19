@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/CreateSubjectServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/DeletePerson.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/ViewStudentSubjects.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/RemoveSubjectFromStudent.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/ListPersonServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/ViewSubjectStudents.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/AddStudentToSubjectServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/AddSubjectToStudent.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/DeleteSubject.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/RemoveStudentFromSubject.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/AddStudentPageServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/ListSubjectServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/CreatePersonServlet.java</file>
+            <file>file:/Users/nora/NetBeansProjects/Assignment3/src/java/enterprise/web_jpa_war/servlet/AddSubjectPageServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
